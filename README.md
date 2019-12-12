@@ -1,5 +1,7 @@
 # Warning
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hyphaene-npm/react-captain-hook.svg)](https://greenkeeper.io/)
+
 /!\ this package is based on react@16.7.0-alpha.
 So, it is likely to have several major releases, in case of a change in the react hooks API
 
